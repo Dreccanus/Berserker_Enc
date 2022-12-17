@@ -34,6 +34,11 @@ Install Berserker with Python
   
 ```
 ![](https://i.ibb.co/xJd4DW5/Screenshot-from-2022-12-17-14-12-11.png)
+
+
+
+
+![alt text](![image](https://user-images.githubusercontent.com/118807753/208254312-c636731c-eda3-45c8-93f0-33354699ec8a.png))
 ## 🔗 Links
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dreccanus)
 
