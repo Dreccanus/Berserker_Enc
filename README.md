@@ -2,11 +2,8 @@
 # Berserk Encoder
 
 The main goal of this encoder is to encode the file or the string with
-many multiple others encoders using the random fun and get the output as an hex
-file and reverset and get it as a binary file and reverset and at list change the
-zeros and the ones with random letters multiple times so this gonna make it
-harder for anyone to see the original file or string !
-
+many multiple others encoders using the random function and make it harder 
+to decode'it without the script
 
 
 
@@ -21,7 +18,7 @@ harder for anyone to see the original file or string !
 
 ## Installation
 
-Install my-project with npm
+Install Berserker with Python
 
 ```bash
   git clone https://github.com/Dreccanus/Berserker_Enc.git
