@@ -43,6 +43,7 @@ Install Berserker with Python
 ```javascript
 python3 berserker.py --encode "text"
 python3 berserker.py -e "text"
+[Python Version : 3.10.6 ]
 ```
 
 
