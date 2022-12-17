@@ -34,6 +34,8 @@ Install Berserker with Python
   
 ```
 ![](https://i.ibb.co/xJd4DW5/Screenshot-from-2022-12-17-14-12-11.png)
+
+
 ![](https://i.ibb.co/vHWqpQ3/Screenshot-from-2022-12-17-18-35-16.png)
 
 
