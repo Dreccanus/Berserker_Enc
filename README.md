@@ -41,8 +41,12 @@ Install Berserker with Python
 ## Usage/Examples
 
 ```javascript
-python3 berserker.py --encode "text"
+-----------For the Encryption---------------------
+python3 berserker.py --encrypt "text"
 python3 berserker.py -e "text"
+-----------For the -Decription--------------------
+python3 berserker.py --decrypt ":xx:xx::x:::xx:::xx:xx::::x"
+python3 berserker.py -d ":xx:xx::x:::xx:::xx:xx::::x"
 [Python Version : 3.10.6 ]
 ```
 
