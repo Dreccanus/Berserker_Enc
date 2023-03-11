@@ -41,7 +41,6 @@ Install Berserker with Python
 
 
 
-![alt text](![image](https://user-images.githubusercontent.com/118807753/208254312-c636731c-eda3-45c8-93f0-33354699ec8a.png))
 ## 🔗 Links
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dreccanus)
 
@@ -50,16 +49,17 @@ Install Berserker with Python
 
 ```javascript
 -----------For the Encryption---------------------
+
 python3 berserker.py --encrypt "text"
 python3 berserker.py -e "text"
+
 -----------For the -Decription--------------------
+
 python3 berserker.py --decrypt ":xx:xx::x:::xx:::xx:xx::::x"
 python3 berserker.py -d ":xx:xx::x:::xx:::xx:xx::::x"
+
 [Python Version : 3.10.6 ]
 ```
 
 
-## Support
-
-For support, email join my youtube channel ( : 
 
